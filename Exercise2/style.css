@@ -1,0 +1,29 @@
+a {}
+body	{
+	background: tan;
+}
+h1 {
+	font-size: 40px; letter-spacing: 1px; text-align: center;
+}
+h2 {
+	font-size: 32px; text-align: center;
+}
+head {}
+html {}
+img {
+
+}
+li {
+	background: white; border: 2px solid black;
+	font-family: Arial; margin: 12px; text-align: center;
+}
+link {}
+ol {}
+p {
+	font-family: Arial; font-weight: 5px; line-height: 20px; margin: 12px; font-size: 18px; text-align: center;
+}
+strong {
+	color: brown; font-family: Times; font-size: 24px; font-style: oblique; text-transform: capitalize;
+}
+title {}
+ul {border: 0px solid white;}
