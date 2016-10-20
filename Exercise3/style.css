@@ -1,0 +1,48 @@
+body {
+	align-content: center;
+}
+
+	#blueblock {
+		width: 65px;
+		height: 50px;
+		background: blue;
+		position: absolute;
+		right: 103%;
+		border-radius: 5px;
+	}
+	#circle {
+		width: 150px;
+		height: 150px;
+		background: #D3D3D3;
+
+		border-radius: 75px;
+	}
+	#rectangle1 {
+		width: 400px;
+		height: 50px;
+		background: white;
+		position: relative;
+		border-color: blue;
+		border-width: 5px;
+	}
+	#rectangle2 {
+		width: 300px;
+		height: 40px;
+		background: #DCDCDC;
+		border-color: #696969;
+		border-width: 1px;
+		clear: both;
+	}
+	#subtitle {
+		width: 130px;
+		height: 20px;
+		background: black;
+		clear: both;
+		margin-top: 10px;
+	}
+	#title {
+		width: 140px;
+		height: 50px;
+		background: black;
+		color: blue;
+	}
