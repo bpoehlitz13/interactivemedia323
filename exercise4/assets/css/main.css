@@ -1,0 +1,282 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: white;
+	position: relative;
+}
+
+#backdropA {
+	width: 900px;
+	height: 556px;
+	position: absolute;
+	background: tomato;
+	background: linear-gradient(lightcoral, tomato);
+}
+
+#backdropB {
+	width: 900px;
+	height: 206px;
+	position: absolute;
+	background: papayawhip;
+}
+
+#blooddrop1 {
+	position: absolute;
+	left: 275px;
+	top: 310px;
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 30px solid royalblue;
+	border-bottom-left-radius: 50%;
+	border-bottom-right-radius: 50%;
+}
+
+#catbody {
+	width: 545px;
+	height: 185px;
+	position: absolute;
+	left: 125px;
+	top: 150px;
+	background: white;
+	border-radius: 30% 20%;
+	border-bottom-right-radius: 30% 50%;
+}
+
+#catear1 {
+	width: 0;
+	height: 0;
+	position: absolute;
+	left: 105px;
+	top: 100px;
+	border-bottom: 100px solid white;
+	border-right: 150px solid transparent;
+}
+
+#catear2 {
+	width: 0;
+	height: 0;
+	position: absolute;
+	left: 115px;
+	top: 100px;
+	border-bottom: 100px solid white;
+	border-left: 200px solid transparent;
+}
+
+#cateye1 {
+	width: 30px;
+	height: 30px;
+	left: 135px;
+	top: 200px;
+	position: absolute;
+	background: seagreen;
+	border-radius: 50%;
+}
+
+#cateye2 {
+	width: 30px;
+	height: 30px;
+	left: 205px;
+	top: 200px;
+	position: absolute;
+	background: seagreen;
+	border-radius: 50%;
+}
+
+#cathead {
+	width: 225px;
+	height: 225px;
+	position: absolute;
+	left: 95px;
+	top: 115px;
+	background: white;
+	border-radius: 50%;
+}
+
+#catleg1 {
+	width: 315px;
+	height: 50px;
+	background: white;
+	position: absolute;
+	left: 70px;
+	top: 305px;
+	border-top-left-radius: 50px 20px;
+	border-bottom-left-radius: 12px;
+	border-bottom-right-radius: 12px;
+	transform: rotate(-5deg);
+}
+
+#catleg2 {
+	width: 315px;
+	height: 50px;
+	background: white;
+	position: absolute;
+	left: 130px;
+	top: 312px;
+	border-top-left-radius: 50px 20px;
+	border-bottom-left-radius: 12px;
+	border-bottom-right-radius: 12px;
+	transform: rotate(-10deg);
+}
+
+#catleg3 {
+	width: 315px;
+	height: 50px;
+	background: white;
+	position: absolute;
+	left: 310px;
+	top: 300px;
+	border-top-left-radius: 50px 20px;
+	border-bottom-left-radius: 12px;
+	border-bottom-right-radius: 64px 36px;
+	transform: rotate(-10deg);
+}
+
+#cattail1 {
+  width: 175px;
+  height: 45px;
+  position: absolute;
+  left: 645px;
+  top: 215px;
+  background: white;
+  transform: rotate(25deg);
+}
+
+#cattail2 {
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  left: 794px;
+  top: 255px;
+  background: white;
+  border-radius: 50%;
+}
+
+#cattail3 {
+  width: 215px;
+  height: 45px;
+  position: absolute;
+  left: 602px;
+  top: 295px;
+  background: white;
+  transform: rotate(-15deg);
+  border-top-left-radius: 50px 20px;
+  border-bottom-left-radius: 50px 20px;
+}
+
+#floorboard1 {
+	width: 900px;
+	height: 50px;
+	position: absolute;
+	top: 206px;
+	background: peru;
+}
+
+#floorboard2 {
+	width: 900px;
+	height: 50px;
+	position: absolute;
+	top: 256px;
+	background: sandybrown;
+}
+
+#floorboard3 {
+	width: 900px;
+	height: 50px;
+	position: absolute;
+	top: 306px;
+	background: peru;
+}
+
+#floorboard4 {
+	width: 900px;
+	height: 50px;
+	position: absolute;
+	top: 356px;
+	background: sandybrown;
+}
+
+#floorboard5 {
+	width: 900px;
+	height: 50px;
+	position: absolute;
+	top: 406px;
+	background: peru;
+}
+
+#floorboard6 {
+	width: 900px;
+	height: 50px;
+	position: absolute;
+	top: 456px;
+	background: sandybrown;
+}
+
+#floorboard7 {
+	width: 900px;
+	height: 56px;
+	position: absolute;
+	top: 506px;
+	background: peru;
+}
+
+#heartbottom {
+	position: absolute;
+	left: 340px;
+	top: 300px;
+	width: 0;
+	height: 0;
+	border-left: 110px solid transparent;
+	border-right: 110px solid transparent;
+	border-top: 176px solid blue;
+}
+
+#hearttop1 {
+	position: absolute;
+	left: 350px;
+	top: 250px;
+	width: 100px;
+	height: 100px;
+	background: blue;
+	border-radius: 50%;
+}
+
+#hearttop2 {
+	position: absolute;
+	left: 450px;
+	top: 250px;
+	width: 100px;
+	height: 100px;
+	background: blue;
+	border-radius: 50%;
+}
+
+#vein1 {
+	position: absolute;
+	height: 20px;
+	width: 900px;
+	background: blue;
+	left: 00px;
+	top: 300px;
+}
+
+#vein2 {
+	position: absolute;
+	left: 400px;
+	width: 20px;
+	height: 556px;
+	-webkit-transform: skew(30deg);
+	   -moz-transform: skew(30deg);
+	     -o-transform: skew(30deg);
+	background: blue;
+}
