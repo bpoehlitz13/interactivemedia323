@@ -1,0 +1,261 @@
+@keyframes featherA{
+	0% {right: 0px; top: 300px;}
+	100% {right: 1000px; top: 310px;}
+}
+@keyframes featherB{
+	0% {right: 0px; top: 300px;}
+	100% {right: 950px; top: 330px;}
+}
+@keyframes featherC{
+	0% {right: 0px; top: 300px;}
+	100% {right: 900px; top: 350px;}
+}
+@keyframes featherD{
+	0% {right: 0px; top: 300px;}
+	100% {right: 850px; top: 370px;}
+}
+@keyframes featherE{
+	0% {right: 0px; top: 300px;}
+	100% {right: 800px; top: 390px;}
+}
+body {
+	background: linear-gradient(to right, white, black);
+}
+#birdback {
+	position: absolute;
+	right: 0px;
+	top: 350px;
+	height: 0;
+	width: 0;
+	border-bottom: 350px solid black;
+	border-left: 300px solid transparent;
+}
+#level1-S {
+	height: 75px;
+	width: 700px;
+	border-top-left-radius: 5%;
+	border-bottom-left-radius: 20% 80%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Georgia;
+	font-size: 30px;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+#level1-S:hover {
+	background: white;
+	color: black;
+}
+#level1-S:a {
+	
+}
+#level2-S {
+	height: 75px;
+	width: 625px;
+	border-top-left-radius: 5%;
+	border-bottom-left-radius: 20% 80%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Georgia;
+	font-size: 30px;
+	position: absolute;
+	right: 0px;
+	top: 75px;
+}
+#level2-S:hover {
+	background: white;
+	color: black;
+}
+#level2-S:a {
+	
+}
+#level3-S {
+	height: 75px;
+	width: 550px;
+	border-top-left-radius: 5%;
+	border-bottom-left-radius: 20% 80%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Georgia;
+	font-size: 30px;
+	position: absolute;
+	right: 0px;
+	top: 150px;
+}
+#level3-S:hover {
+	background: white;
+	color: black;
+}
+#level3-S:a {
+	
+}
+#level4-S {
+	height: 75px;
+	width: 475px;
+	border-top-left-radius: 5%;
+	border-bottom-left-radius: 20% 80%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Georgia;
+	font-size: 30px;
+	position: absolute;
+	right: 0px;
+	top: 225px;
+}
+#level4-S:hover {
+	background: white;
+	color: black;
+}
+#level4-S:a {
+	
+}
+#level5-S {
+	height: 75px;
+	width: 400px;
+	border-top-left-radius: 5%;
+	border-bottom-left-radius: 20% 80%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Georgia;
+	font-size: 30px;
+	position: absolute;
+	right: 0px;
+	top: 300px;
+}
+#level5-S:hover {
+	background: white;
+	color: black;
+}
+#level5-S:a {
+	
+}
+#level5-1 {
+	height: 40px;
+	width: 60px;
+	border-radius: 80% 0%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Courier;
+	font-size: 20px;
+	position: absolute;
+	right: 200px;
+	top: 310px;
+	animation: featherA;
+	animation-duration: 4s;
+	animation-timing-function: ease-out;
+	animation-fill-mode: forwards;
+}
+#level5-1:hover {
+	background: white;
+	color: black;
+}
+#level5-2 {
+	height: 40px;
+	width: 60px;
+	border-radius: 80% 0%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Courier;
+	font-size: 20px;
+	position: absolute;
+	right: 200px;
+	top: 310px;
+	animation: featherB;
+	animation-duration: 4s;
+	animation-timing-function: ease-out;
+	animation-fill-mode: forwards;
+}
+#level5-2:hover {
+	background: white;
+	color: black;
+}
+#level5-3 {
+	height: 40px;
+	width: 60px;
+	border-radius: 80% 0%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Courier;
+	font-size: 20px;
+	position: absolute;
+	right: 200px;
+	top: 310px;
+	animation: featherC;
+	animation-duration: 4s;
+	animation-timing-function: ease-out;
+	animation-fill-mode: forwards;
+}
+#level5-3:hover {
+	background: white;
+	color: black;
+}
+
+#level5-4 {
+	height: 40px;
+	width: 60px;
+	border-radius: 80% 0%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Courier;
+	font-size: 20px;
+	position: absolute;
+	right: 200px;
+	top: 310px;
+	animation: featherD;
+	animation-duration: 4s;
+	animation-timing-function: ease-out;
+	animation-fill-mode: forwards;
+}
+#level5-4:hover {
+	background: white;
+	color: black;
+}
+
+#level5-5 {
+	height: 40px;
+	width: 60px;
+	border-radius: 80% 0%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Courier;
+	font-size: 20px;
+	position: absolute;
+	right: 200px;
+	top: 310px;
+	animation: featherE;
+	animation-duration: 4s;
+	animation-timing-function: ease-out;
+	animation-fill-mode: forwards;
+}
+#level5-5:hover {
+	background: white;
+	color: black;
+}
+#Raven {
+	font-family: Courier;
+	font-size: 30px;
+	position: absolute;
+	right: 400px;
+	top: 500px;
+}

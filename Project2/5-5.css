@@ -1,0 +1,173 @@
+body {
+	background: linear-gradient(to left, white , black);
+}
+#d1 {
+	position: absolute;
+	right: 70%;
+	top: 0%;
+}
+#d2 {
+	position: absolute;
+	right: 64%;
+	top: 2%;
+}
+#d3 {
+	opacity: 0.96;
+	position: absolute;
+	right: 62%;
+	top: 4%;
+}
+#d4 {
+	opacity: 0.92;
+	position: absolute;
+	right: 60%;
+	top: 6%;
+}
+#d5 {
+	opacity: 0.88;
+	position: absolute;
+	right: 58%;
+	top: 8%;
+}
+#d6 {
+	opacity: 0.84;
+	position: absolute;
+	right: 56%;
+	top: 10%;
+}
+#d7 {
+	opacity: 0.80;
+	position: absolute;
+	right: 50%;
+	top: 12%;
+}
+#d8 {
+	opacity: 0.76;
+	position: absolute;
+	right: 44%;
+	top: 14%;
+}
+#d9 {
+	opacity: 0.72;
+	position: absolute;
+	right: 42%;
+	top: 16%;
+}
+#d10 {
+	opacity: 0.68;
+	position: absolute;
+	right: 40%;
+	top: 18%;
+}
+#d11 {
+	opacity: 0.64;
+	position: absolute;
+	right: 38%;
+	top: 20%;
+}
+#d12 {
+	opacity: 0.60;
+	position: absolute;
+	right: 36%;
+	top: 22%;
+}
+#d13 {
+	opacity: 0.56;
+	position: absolute;
+	right: 30%;
+	top: 24%;
+}
+#d14 {
+	opacity: 0.52;
+	position: absolute;
+	right: 24%;
+	top: 26%;
+}
+#d15 {
+	opacity: 0.48;
+	position: absolute;
+	right: 22%;
+	top: 28%;
+}
+#d16 {
+	opacity: 0.44;
+	position: absolute;
+	right: 20%;
+	top: 30%;
+}
+#d17 {
+	opacity: 0.40;
+	position: absolute;
+	right: 18%;
+	top: 32%;
+}
+#d18 {
+	opacity: 0.36;
+	position: absolute;
+	right: 16%;
+	top: 34%;
+}
+#d19 {
+	opacity: 0.32;
+	position: absolute;
+	right: 10%;
+	top: 36%;
+}
+#d20 {
+	opacity: 0.28;
+	position: absolute;
+	right: 4%;
+	top: 38%;
+}
+#d21 {
+	opacity: 0.24;
+	position: absolute;
+	right: 2%;
+	top: 40%;
+}
+#d22 {
+	opacity: 0.20;
+	position: absolute;
+	right: 0%;
+	top: 42%;
+}
+#next {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid white;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+#next:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}
+#prev {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10
+	background: black;
+	border: 2px solid black;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+#prev:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}

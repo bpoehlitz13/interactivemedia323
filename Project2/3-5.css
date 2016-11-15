@@ -1,0 +1,216 @@
+#d1 {
+	border: 2px solid black;
+	position: absolute;
+	left: 1%;
+	top: 1%;
+	height: 50%;
+	width: 50%;
+}
+#d2 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 26%;
+	top: 1%;
+}
+#d3 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 51%;
+	top: 1%;
+}
+#d4 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 76%;
+	top: 1%;
+}
+#d5 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 1%;
+	top: 15%;
+}
+#d6 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 26%;
+	top: 15%;
+}
+#d7 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 51%;
+	top: 15%;
+}
+#d8 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 76%;
+	top: 15%;
+}
+#d9 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 1%;
+	top: 30%;
+}
+#d10 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 21%;
+	top: 30%;
+}
+#d11 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 51%;
+	top: 30%;
+}
+#d12 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 1%;
+	top: 50%;
+}
+#d13 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 26%;
+	top: 50%;
+}
+#d14 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 51%;
+	top: 50%;
+}
+#d15 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 76%;
+	top: 50%;
+}
+#d16 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 1%;
+	top: 60%;
+}
+#d17 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 26%;
+	top: 60%;
+}
+#d18 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: fixed;
+	left: 51%;
+	top: 60%;
+}
+#d19 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 76%;
+	top: 60%;
+}
+#d20 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 1%;
+	top: 70%;
+}
+#d21 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 26%;
+	top: 70%;
+}
+#d22 {
+	border: 2px solid black;
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	left: 76%;
+	top: 70%;
+}
+#next {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid white;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+#next:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}
+#prev {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid black;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+#prev:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}

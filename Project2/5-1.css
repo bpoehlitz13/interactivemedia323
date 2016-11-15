@@ -1,0 +1,173 @@
+body {
+	background: black;
+}
+#whitebox {
+	background: white;
+	height: 100%;
+	width: 50%;
+	position: absolute;
+	top: 0%;
+	right: 0%;
+}
+#d1 {
+	color: white;
+	position: absolute;
+	right: 77%;
+	top: 10%;
+}
+#d2 {
+	color: white;
+	position: absolute;
+	right: 55%;
+	top: 20%;
+}
+#d3 {
+	position: absolute;
+	left: 55%;
+	top: 20%;
+}
+#d4 {
+	position: absolute;
+	left: 77%;
+	top: 10%;
+}
+#d5 {
+	color: white;
+	position: absolute;
+	left: 1%;
+	top: 25%;
+}
+#d6 {
+	color: white;
+	position: absolute;
+	left: 26%;
+	top: 35%;
+}
+#d7 {
+	position: absolute;
+	right: 26%;
+	top: 35%;
+}
+#d8 {
+	position: absolute;
+	right: 1%;
+	top: 25%;
+}
+#d9 {
+	color: white;
+	position: absolute;
+	left: 15%;
+	top: 40%;
+}
+#d10 {
+	position: absolute;
+	right: 15%;
+	top: 40%;
+}
+#d11 {
+	color: grey;
+	position: absolute;
+	left: 45%;
+	top: 40%;
+}
+#d12 {
+	color: white;
+	position: absolute;
+	left: 1%;
+	top: 55%;
+}
+#d13 {
+	color: white;
+	position: absolute;
+	left: 26%;
+	top: 50%;
+}
+#d14 {
+	position: absolute;
+	right: 26%;
+	top: 50%;
+}
+#d15 {
+	position: absolute;
+	right: 1%;
+	top: 55%;
+}
+#d16 {
+	color: white;
+	position: absolute;
+	left: 22%;
+	top: 65%;
+}
+#d17 {
+	color: white;
+	position: absolute;
+	left: 34%;
+	top: 70%;
+}
+#d18 {
+	position: fixed;
+	right: 34%;
+	top: 70%;
+}
+#d19 {
+	position: absolute;
+	right: 22%;
+	top: 65%;
+}
+#d20 {
+	color: white;
+	position: absolute;
+	left: 20%;
+	top: 80%;
+}
+#d21 {
+	position: absolute;
+	right: 20%;
+	top: 80%;
+}
+#d22 {
+	color: grey;
+	position: absolute;
+	right: 44%;
+	top: 80%;
+}
+#next {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid white;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+#next:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}
+#prev {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid black;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+#prev:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}

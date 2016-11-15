@@ -1,0 +1,172 @@
+#line1 {
+	font-family: Verdana;
+	letter-spacing: 10.2px;
+	position: absolute;
+	left: 50%;
+}
+#line2 {
+	font-family: Verdana;
+	letter-spacing: 7.2px;
+	position: absolute;
+	left: 50%;
+}
+#line3 {
+	font-family: Verdana;
+	letter-spacing: 8.7px;
+	position: absolute;
+	left: 50%;
+}
+#line4 {
+	font-family: Verdana;
+	letter-spacing: 12.7px;
+	position: absolute;
+	left: 50%;
+}
+#line5 {
+	font-family: Verdana;
+	letter-spacing: 8.4px;
+	position: absolute;
+	left: 50%;
+}
+#line6 {
+	font-family: Verdana;
+	letter-spacing: 8.7px;
+	position: absolute;
+	left: 50%;
+}
+#line7 {
+	font-family: Verdana;
+	letter-spacing: 8.8px;
+	position: absolute;
+	left: 50%;
+}
+#line8 {
+	font-family: Verdana;
+	letter-spacing: 10.5px;
+	position: absolute;
+	left: 50%;
+}
+#line9 {
+	font-family: Verdana;
+	letter-spacing: 8.4px;
+	position: absolute;
+	left: 50%;
+}
+#line10 {
+	font-family: Verdana;
+	letter-spacing: 9.8px;
+	position: absolute;
+	left: 50%;
+}
+#line11 {
+	font-family: Verdana;
+	letter-spacing: 10.2px;
+	position: absolute;
+	left: 50%;
+}
+#line12 {
+	font-family: Verdana;
+	letter-spacing: 12.6px;
+	position: absolute;
+	left: 50%;
+}
+#line13 {
+	font-family: Verdana;
+	letter-spacing: 9.5px;
+	position: absolute;
+	left: 50%;
+}
+#line14 {
+	font-family: Verdana;
+	letter-spacing: 8.9px;
+	position: absolute;
+	left: 50%;
+}
+#line15 {
+	font-family: Verdana;
+	letter-spacing: 7.7px;
+	position: absolute;
+	left: 50%;
+}
+#line16 {
+	font-family: Verdana;
+	letter-spacing: 10px;
+	position: absolute;
+	left: 50%;
+}
+#line17 {
+	font-family: Verdana;
+	letter-spacing: 9px;
+	position: absolute;
+	left: 50%;
+}
+#line18 {
+	font-family: Verdana;
+	letter-spacing: 7.3px;
+	position: absolute;
+	left: 50%;
+}
+#line19 {
+	font-family: Verdana;
+	letter-spacing: 10.6px;
+	position: absolute;
+	left: 50%;
+}
+#line20 {
+	font-family: Verdana;
+	letter-spacing: 8.4px;
+	position: absolute;
+	left: 50%;
+}
+#line21 {
+	font-family: Verdana;
+	letter-spacing: 9.4px;
+	position: absolute;
+	left: 50%;
+}
+#line22 {
+	font-family: Verdana;
+	letter-spacing: 10.5px;
+	position: absolute;
+	left: 50%;
+}
+#next {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid white;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+#next:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}
+#prev {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid black;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+#prev:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}

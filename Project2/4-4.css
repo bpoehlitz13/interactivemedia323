@@ -1,0 +1,59 @@
+body {
+	font-family: Courier New;
+}
+
+#blueline {
+	font-family: Courier New;
+	border-bottom: 1px dashed navy;
+}
+
+#closer {
+	font-family: Arial;
+	font-size: 15px;
+	text-align: right;
+}
+
+#redline {
+	font-family: Courier New;
+	border-bottom: 1px dashed crimson;
+}
+#next {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid white;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+#next:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}
+#prev {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid black;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+#prev:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}

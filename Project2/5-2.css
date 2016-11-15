@@ -1,0 +1,238 @@
+@keyframes wave {
+	from {color: white; left: 0%;}
+	to {color: slateblue; left: 60%;}
+}
+@keyframes waver {
+	from {color: white; right: 0%;}
+	to {color: slateblue; right: 60%;}
+}
+body {
+	background-color: black;
+}
+#d1 {
+	color: white;
+	position: relative;
+	animation-name: wave;
+	animation-duration: 2s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d2 {
+	color: white;
+	position: relative;
+	animation-name: wave;
+	animation-duration: 2.2s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d3 {
+	color: white;
+	position: relative;
+	animation-name: wave;
+	animation-duration: 2.4s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d4 {
+	color: white;
+	position: relative;
+	animation-name: wave;
+	animation-duration: 2.6s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d5 {
+	color: white;
+	position: relative;
+	animation-name: wave;
+	animation-duration: 2.8s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d6 {
+	color: white;
+	position: relative;
+	animation-name: wave;
+	animation-duration: 3s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d7 {
+	color: white;
+	position: relative;
+	animation-name: wave;
+	animation-duration: 3.2s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d8 {
+	color: white;
+	position: relative;
+	animation-name: wave;
+	animation-duration: 3.4s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d9 {
+	color: white;
+	position: relative;
+	animation-name: wave;
+	animation-duration: 3.6s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d10 {
+	color: white;
+	position: relative;
+	animation-name: wave;
+	animation-duration: 3.8s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d11 {
+	color: white;
+	position: relative;
+	animation-name: wave;
+	animation-duration: 4s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d12 {
+	color: white;
+	direction: rtl;
+	position: relative;
+	animation-name: waver;
+	animation-duration: 4s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d13 {
+	color: white;
+	direction: rtl;
+	position: relative;
+	animation-name: waver;
+	animation-duration: 3.8s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d14 {
+	color: white;
+	direction: rtl;
+	position: relative;
+	animation-name: waver;
+	animation-duration: 3.6s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d15 {
+	color: white;
+	direction: rtl;
+	position: relative;
+	animation-name: waver;
+	animation-duration: 3.4s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d16 {
+	color: white;
+	direction: rtl;
+	position: relative;
+	animation-name: waver;
+	animation-duration: 3.2s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d17 {
+	color: white;
+	direction: rtl;
+	position: relative;
+	animation-name: waver;
+	animation-duration: 3s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d18 {
+	color: white;
+	direction: rtl;
+	position: relative;
+	animation-name: waver;
+	animation-duration: 2.8s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d19 {
+	color: white;
+	direction: rtl;
+	position: relative;
+	animation-name: waver;
+	animation-duration: 2.6s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d20 {
+	color: white;
+	direction: rtl;
+	position: relative;
+	animation-name: waver;
+	animation-duration: 2.4s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d21 {
+	color: white;
+	direction: rtl;
+	position: relative;
+	animation-name: waver;
+	animation-duration: 2.2s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#d22 {
+	color: white;
+	direction: rtl;
+	position: relative;
+	animation-name: waver;
+	animation-duration: 2s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+#next {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid white;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+#next:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}
+#prev {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid black;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+#prev:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}

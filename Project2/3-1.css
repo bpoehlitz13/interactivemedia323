@@ -1,0 +1,150 @@
+#M {
+	border: 3px solid slategrey;
+	position: absolute;
+	top: 5%;
+	left: 22%;
+}
+#N {
+	border: 3px solid lightgrey;
+	position: absolute;
+	top: 17%;
+	left: 17%;
+}
+#O {
+	border: 3px solid lightgrey;
+	position: absolute;
+	top: 22%;
+	left: 35%;
+}
+#PL {
+	border: 3px solid midnightblue;
+	position: absolute;
+	top: 27%;
+	left: 8%;
+}
+#PR {
+	border: 3px solid maroon;
+	position: absolute;
+	top: 27%;
+	right: 24%;
+}
+#Q {
+	border: 3px solid lightgrey;
+	position: absolute;
+	top: 32%;
+	left: 35%;
+}
+#SL {
+	border: 3px solid maroon;
+	position: absolute;
+	top: 37%;
+	right: 71%;
+}
+#SR {
+	border: 3px solid midnightblue;
+	position: absolute;
+	top: 37%;
+	right: 29%;
+}
+#T {
+	border: 3px solid lightgrey;
+	position: absolute;
+	top: 42%;
+	right: 45%;
+}
+#UL {
+	border: 3px solid midnightblue;
+	position: absolute;
+	bottom: 42%;
+	right: 68%;
+}
+#UR {
+	border: 3px solid maroon;
+	position: absolute;
+	bottom: 42%;
+	right: 32%;
+}
+#V {
+	border: 3px solid lightgrey;
+	position: absolute;
+	bottom: 37%;
+	left: 20%;
+}
+#W {
+	border: 3px solid lightgrey;
+	position: absolute;
+	bottom: 32%;
+	left: 16%;
+}
+#X {
+	border: 3px solid lightgrey;
+	position: absolute;
+	bottom: 27%;
+	left: 24%;
+}
+#Y {
+	border: 3px solid lightgrey;
+	position: absolute;
+	bottom: 22%;
+	right: 43%;
+}
+#ZL {
+	border: 3px solid maroon;
+	position: absolute;
+	bottom: 17%;
+	right: 62%;
+	border-right-style: dotted;
+}
+#ZR {
+	border: 3px solid midnightblue;
+	position: absolute;
+	bottom: 17%;
+	right: 38%;
+	border-left-style: dotted;
+}
+#ZZ {
+	border: 3px outset slategrey;
+	position: absolute;
+	bottom: 5%;
+	left: 22%;
+}
+#next {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid white;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+#next:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}
+#prev {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid black;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+#prev:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}

@@ -1,0 +1,129 @@
+body {
+	background: linear-gradient(to right, white, black);
+}
+#birdback {
+	position: absolute;
+	right: 0px;
+	top: 350px;
+	height: 0;
+	width: 0;
+	border-bottom: 350px solid black;
+	border-left: 300px solid transparent;
+}
+#level1-S {
+	height: 75px;
+	width: 700px;
+	border-top-left-radius: 5%;
+	border-bottom-left-radius: 20% 80%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Georgia;
+	font-size: 30px;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+#level1-S:hover {
+	background: white;
+	color: black;
+}
+#level1-S:a {
+	
+}
+#level2-S {
+	height: 75px;
+	width: 625px;
+	border-top-left-radius: 5%;
+	border-bottom-left-radius: 20% 80%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Georgia;
+	font-size: 30px;
+	position: absolute;
+	right: 0px;
+	top: 75px;
+}
+#level2-S:hover {
+	background: white;
+	color: black;
+}
+#level2-S:a {
+	
+}
+#level3-S {
+	height: 75px;
+	width: 550px;
+	border-top-left-radius: 5%;
+	border-bottom-left-radius: 20% 80%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Georgia;
+	font-size: 30px;
+	position: absolute;
+	right: 0px;
+	top: 150px;
+}
+#level3-S:hover {
+	background: white;
+	color: black;
+}
+#level3-S:a {
+	
+}
+#level4-S {
+	height: 75px;
+	width: 475px;
+	border-top-left-radius: 5%;
+	border-bottom-left-radius: 20% 80%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Georgia;
+	font-size: 30px;
+	position: absolute;
+	right: 0px;
+	top: 225px;
+}
+#level4-S:hover {
+	background: white;
+	color: black;
+}
+#level4-S:a {
+	
+}
+#level5-S {
+	height: 75px;
+	width: 400px;
+	border-top-left-radius: 5%;
+	border-bottom-left-radius: 20% 80%;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: Georgia;
+	font-size: 30px;
+	position: absolute;
+	right: 0px;
+	top: 300px;
+}
+#level5-S:hover {
+	background: white;
+	color: black;
+}
+#level5-S:a {
+	
+}
+#Raven {
+	font-family: Courier;
+	font-size: 30px;
+	position: absolute;
+	right: 400px;
+	top: 500px;
+}

@@ -1,0 +1,106 @@
+#thebigOnce {
+	font-size: 1000px;
+}
+#thebigAh {
+	font-size: 1000px;
+}
+#line1 {
+	position: absolute;
+	top: 380px;
+	left: 250px;
+}
+#line2 {
+	position: absolute;
+	top: 450px;
+	left: 250px;
+}
+#line3 {
+	position: absolute;
+	top: 520px;
+	left: 250px;
+}
+#line4 {
+	position: absolute;
+	top: 590px;
+	left: 250px;
+}
+#line5 {
+	position: absolute;
+	top: 660px;
+	left: 250px;
+}
+#line6 {
+	position: absolute;
+	top: 800px;
+	left: 250px;
+}
+#line7 {
+	position: absolute;
+	top: 1771px;
+	left: 245px;
+}
+#line8 {
+	position: absolute;
+	top: 1860px;
+	left: 240px;
+}
+#line9 {
+	position: absolute;
+	top: 1900px;
+	left: 240px;
+}
+#line10 {
+	position: absolute;
+	top: 1940px;
+	left: 240px;
+}
+#line11 {
+	position: absolute;
+	top: 1980px;
+	left: 240px;
+}
+#line12 {
+	position: absolute;
+	top: 2050px;
+	left: 240px;
+}
+#next {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid white;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+#next:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}
+#prev {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid black;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+#prev:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}

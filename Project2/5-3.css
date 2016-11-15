@@ -1,0 +1,204 @@
+#d1 {
+	background: white;
+	position: absolute;
+	top: 0%;
+	right: 50%;
+}
+#d2 {
+	background: black;
+	color: white;
+	position: absolute;
+	right: 0%;
+	width: 40%;
+	border-bottom-left-radius: 40%
+}
+#d3 {
+	background: white;
+	top: 2%;
+	position: absolute;
+	right: 50%;
+}
+#d4 {
+	background: black;
+	color: white;
+	position: absolute;
+	top: 3%;
+	right: 0%;
+	width: 38%;
+	border-bottom-left-radius: 40%
+}
+#d5 {
+	background: white;
+	position: absolute;
+	top: 4%;
+	right: 50%;
+}
+#d6 {
+	background: black;
+	color: white;
+	position: absolute;
+	top: 5%;
+	right: 0%;
+	width: 36%;
+	border-bottom-left-radius: 40%
+}
+#d7 {
+	background: white;
+	position: absolute;
+	top: 6%;
+	right: 50%;
+}
+#d8 {
+	background: black;
+	color: white;
+	position: absolute;
+	top: 7%;
+	right: 0%;
+	width: 34%;
+	border-bottom-left-radius: 40%
+}
+#d9 {
+	background: white;
+	top: 8%;
+	position: absolute;
+	right: 50%;
+}
+#d10 {
+	background: black;
+	color: white;
+	position: absolute;
+	top: 9%;
+	right: 0%;
+	width: 32%;
+	border-bottom-left-radius: 40%
+}
+#d11 {
+	background: white;
+	top: 10%;
+	position: absolute;
+	right: 50%;
+}
+#d12 {
+	background: black;
+	color: white;
+	position: absolute;
+	top: 11%;
+	right: 0%;
+	width: 30%;
+	border-bottom-left-radius: 40%
+}
+#d13 {
+	background: white;
+	position: absolute;
+	top: 12%;
+	right: 50%;
+}
+#d14 {
+	background: black;
+	color: white;
+	position: absolute;
+	top: 13%;
+	right: 0%;
+	width: 28%;
+	border-bottom-left-radius: 40%
+}
+#d15 {
+	background: white;
+	position: absolute;
+	top: 14%;
+	right: 50%;
+}
+#d16 {
+	background: black;
+	color: white;
+	position: absolute;
+	top: 15%;
+	right: 0%;
+	width: 26%;
+	border-bottom-left-radius: 40%
+}
+#d17 {
+	background: white;
+	position: absolute;
+	top: 16%;
+	right: 50%;
+}
+#d18 {
+	background: black;
+	color: white;
+	position: absolute;
+	top: 17%;
+	right: 0%;
+	width: 24%;
+	border-bottom-left-radius: 40%
+}
+#d19 {
+	background: white;
+	position: absolute;
+	top: 18%;
+	right: 50%;
+}
+#d20 {
+	background: black;
+	color: white;
+	position: absolute;
+	top: 19%;
+	right: 0%;
+	width: 22%;
+	border-bottom-left-radius: 40%
+}
+#d21 {
+	background: white;
+	position: absolute;
+	top: 20%;
+	right: 50%;
+}
+#d22 {
+	background: black;
+	color: white;
+	position: absolute;
+	top: 21%;
+	right: 0%;
+	width: 20%;
+	border-bottom-left-radius: 40%
+}
+#next {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid white;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+#next:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}
+#prev {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid black;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+#prev:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}

@@ -1,0 +1,150 @@
+#A {
+	position: absolute;
+	left: 37px;
+	top: 23px;
+}
+#B {
+	position: absolute;
+	left: 37px;
+	top: 37px;
+}
+#C {
+	position: absolute;
+	left: 37px;
+	top: 81px;
+}
+#D {
+	position: absolute;
+	left: 37px;
+	top: 96px;
+}
+#E {
+	position: absolute;
+	left: 42px;
+	top: 140px;
+}
+#F {
+	position: absolute;
+	left: 42px;
+	top: 155px;
+}
+#G {
+	position: absolute;
+	left: 30px;
+	top: 198px;
+}
+#H {
+	position: absolute;
+	left: 35px;
+	top: 213px;
+}
+#I {
+	position: absolute;
+	left: 52px;
+	top: 258px;
+}
+#J {
+	position: absolute;
+	left: 52px;
+	top: 273px;
+}
+#K {
+	position: absolute;
+	left: 37px;
+	top: 315px;
+}
+#L {
+	position: absolute;
+	left: 30px;
+	top: 373px;
+}
+#M {
+	position: absolute;
+	left: 35px;
+	top: 388px;
+}
+#N {
+	position: absolute;
+	left: 30px;
+	top: 431px;
+}
+#O {
+	position: absolute;
+	left: 35px;
+	top: 446px;
+}
+#P {
+	position: absolute;
+	left: 35px;
+	top: 491px;
+}
+#Q {
+	position: absolute;
+	left: 35px;
+	top: 506px;
+}
+#R {
+	position: absolute;
+	left: 35px;
+	top: 549px;
+}
+#S {
+	position: absolute;
+	left: 33px;
+	top: 564px;
+}
+#T {
+	position: absolute;
+	left: 35px;
+	top: 607px;
+}
+#U {
+	position: absolute;
+	left: 33px;
+	top: 622px;
+}
+#V {
+	position: absolute;
+	left: 35px;
+	top: 666px;
+}
+#next {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid white;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+#next:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}
+#prev {
+	height: 40px;
+	width: 100px;
+	border-bottom-left-radius: 60% 20%;
+	border-top-left-radius: 10%;
+	background: black;
+	border: 2px solid black;
+	font-family: Georgia;
+	text-align: center;
+	vertical-align: center;
+	color: transparent;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+#prev:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+}
