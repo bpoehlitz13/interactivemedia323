@@ -1,0 +1,86 @@
+body {
+	background: lightgrey;
+}
+h2 {
+	text-align: right;
+	margin-right: 40px;
+	font-size: 40px;
+	position: relative;
+}
+p {
+	font-size: 16px;
+	margin-left: 150px;
+	position: relative;
+	top: 4%;
+	font-family: verdana;
+}
+strong {
+	font-size: 50px;
+}
+#banner1 {
+	position: absolute;
+	top: 0px;
+	left: 40%;
+	height: 40%;
+	width: 60%;
+	background: steelblue;
+}
+#banner2 {
+	position: absolute;
+	top: 0px;
+	left: 40%;
+	height: 40%;
+	width: 60%;
+	background: lightcoral;
+}
+#pic1 {
+	position: absolute;
+	top: 48%;
+	left: 54%;
+	width: 10%;
+	height: 10%;
+	background: steelblue;
+}
+#pic2 {
+	position: absolute;
+	top: 72%;
+	left: 54%;
+	width: 10%;
+	height: 10%;
+	background: lightcoral;
+}
+#trump1 {
+	position: absolute;
+	top: 46%;
+	left: 52%;
+	height: 20%;
+	width: 40%;
+	background: white;
+	border: 1px solid lightcoral;
+}
+#trump2 {
+	position: absolute;
+	top: 70%;
+	left: 52%;
+	height: 20%;
+	width: 40%;
+	background: white;
+	border: 1px solid lightcoral;
+}
+#prince {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	height: 100%;
+	width: 50%;
+	background: white;
+	border: 1px solid lightcoral;
+}
+a:link {
+	color: midnightblue;
+	text-decoration: none;
+}
+a:visited {
+	color: firebrick;
+	text-decoration: none;
+}

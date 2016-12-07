@@ -1,0 +1,69 @@
+body {
+	background: lightgrey;
+}
+h1 {
+	text-align: right;
+	margin-right: 10px;
+	position: relative;
+	top: 10%;
+}
+h2 {
+	text-align: right;
+	margin-right: 10px;
+	position: relative;
+	top: 10%;
+}
+p {
+	margin-left: 10px;
+	margin-right: 10px;
+	position: relative;
+	top: 5%;
+   font-family: verdana;
+}
+strong {
+	font-size: 60px;
+}
+#podium {
+	position: absolute;
+	bottom: 0%;
+	left: 40%;
+	height: 80%;
+	width: 20%;
+	background: darkslategrey;
+}
+#trump1 {
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	height: 60%;
+	width: 40%;
+	background: steelblue;
+	border: 1px solid lightcoral;
+	text-align: right;
+}
+#trump2 {
+	position: absolute;
+	top: 0%;
+	right: 0%;
+	height: 60%;
+	width: 40%;
+	background: lightcoral;
+	border: 1px solid lightcoral;
+}
+#prince {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	height: 40%;
+	width: 100%;
+	background: darkslategrey;
+	color: white;
+}
+a:link {
+	color: midnightblue;
+	text-decoration: none;
+}
+a:visited {
+	color: firebrick;
+	text-decoration: none;
+}
