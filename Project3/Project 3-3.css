@@ -37,16 +37,16 @@ strong {
 	position: absolute;
 	top: 48%;
 	left: 54%;
-	width: 10%;
-	height: 10%;
+	width: 100px;
+	height: 100px;
 	background: steelblue;
 }
 #pic2 {
 	position: absolute;
 	top: 72%;
 	left: 54%;
-	width: 10%;
-	height: 10%;
+	width: 100px;
+	height: 100px;
 	background: lightcoral;
 }
 #trump1 {
